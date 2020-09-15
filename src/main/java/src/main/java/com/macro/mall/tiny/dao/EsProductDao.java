@@ -1,4 +1,6 @@
-package com.macro.mall.tiny.dao;
+package src.main.java.com.macro.mall.tiny.dao;
+
+
 
 import src.main.java.com.macro.mall.tiny.nosql.elasticsearch.document.EsProduct;
 import src.main.java.com.macro.mall.tiny.nosql.elasticsearch.document.EsProducts;
