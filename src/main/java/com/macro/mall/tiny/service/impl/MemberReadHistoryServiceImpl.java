@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.service.impl;
+package com.macro.mall.tiny.service.impl;
 
 import com.macro.mall.tiny.nosql.mongodb.document.MemberReadHistory;
 import com.macro.mall.tiny.nosql.mongodb.repository.MemberReadHistoryRepository;

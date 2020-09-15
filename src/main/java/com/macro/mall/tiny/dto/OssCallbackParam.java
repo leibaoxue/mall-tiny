@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.dto;
+package com.macro.mall.tiny.dto;
 
 import io.swagger.annotations.ApiModelProperty;
 

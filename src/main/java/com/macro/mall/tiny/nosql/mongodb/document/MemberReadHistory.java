@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.nosql.mongodb.document;
+package com.macro.mall.tiny.nosql.mongodb.document;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.index.Indexed;

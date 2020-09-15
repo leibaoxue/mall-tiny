@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.config;
+package com.macro.mall.tiny.config;
 
 import com.aliyun.oss.OSSClient;
 import org.springframework.beans.factory.annotation.Value;

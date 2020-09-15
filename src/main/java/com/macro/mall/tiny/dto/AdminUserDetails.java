@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.dto;
+package com.macro.mall.tiny.dto;
 
 import com.macro.mall.tiny.mbg.model.UmsAdmin;
 import com.macro.mall.tiny.mbg.model.UmsPermission;

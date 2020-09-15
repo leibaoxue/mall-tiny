@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.config;
+package com.macro.mall.tiny.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.EnableScheduling;

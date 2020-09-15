@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.mbg.model;
+package com.macro.mall.tiny.mbg.model;
 
 import java.util.ArrayList;
 import java.util.Date;

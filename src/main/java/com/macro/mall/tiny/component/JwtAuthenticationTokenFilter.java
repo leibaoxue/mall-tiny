@@ -1,4 +1,5 @@
-package src.main.java.com.macro.mall.tiny.component;
+package com.macro.mall.tiny.component;
+
 
 import com.macro.mall.tiny.common.utils.JwtTokenUtil;
 import org.slf4j.Logger;

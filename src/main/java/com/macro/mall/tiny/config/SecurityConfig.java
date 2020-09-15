@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.config;
+package com.macro.mall.tiny.config;
 
 import com.macro.mall.tiny.component.JwtAuthenticationTokenFilter;
 import com.macro.mall.tiny.component.RestAuthenticationEntryPoint;

@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.mbg.model;
+package com.macro.mall.tiny.mbg.model;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

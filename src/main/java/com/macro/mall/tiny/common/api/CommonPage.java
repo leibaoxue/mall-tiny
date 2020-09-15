@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.common.api;
+package com.macro.mall.tiny.common.api;
 
 import com.github.pagehelper.PageInfo;
 import org.springframework.data.domain.Page;

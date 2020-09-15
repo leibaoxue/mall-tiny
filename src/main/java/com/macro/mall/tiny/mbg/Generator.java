@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.mbg;
+package com.macro.mall.tiny.mbg;
 
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;

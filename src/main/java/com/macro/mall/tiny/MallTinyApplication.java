@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny;
+package com.macro.mall.tiny;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

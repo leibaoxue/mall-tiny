@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.service.impl;
+package com.macro.mall.tiny.service.impl;
 
 import cn.hutool.core.collection.CollUtil;
 import cn.hutool.core.util.StrUtil;

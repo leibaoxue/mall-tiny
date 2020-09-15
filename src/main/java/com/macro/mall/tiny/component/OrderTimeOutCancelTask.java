@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.component;
+package com.macro.mall.tiny.component;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

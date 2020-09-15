@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.service.impl;
+package com.macro.mall.tiny.service.impl;
 
 import cn.hutool.json.JSONUtil;
 import com.aliyun.oss.OSSClient;

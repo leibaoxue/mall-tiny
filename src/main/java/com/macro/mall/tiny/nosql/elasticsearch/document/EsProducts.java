@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.nosql.elasticsearch.document;
+package com.macro.mall.tiny.nosql.elasticsearch.document;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;

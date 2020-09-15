@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.common.utils;
+package com.macro.mall.tiny.common.utils;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

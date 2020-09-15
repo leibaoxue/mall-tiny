@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.unit;
+package com.macro.mall.tiny.unit;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

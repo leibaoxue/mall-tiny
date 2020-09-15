@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.service;
+package com.macro.mall.tiny.service;
 
 /**
  * redis操作Service,

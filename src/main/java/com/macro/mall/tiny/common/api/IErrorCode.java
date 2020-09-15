@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.common.api;
+package com.macro.mall.tiny.common.api;
 
 /**
  * 封装API的错误码

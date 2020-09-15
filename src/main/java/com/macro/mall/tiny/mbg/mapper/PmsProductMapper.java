@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.mbg.mapper;
+package com.macro.mall.tiny.mbg.mapper;
 
 import com.macro.mall.tiny.mbg.model.PmsProduct;
 import com.macro.mall.tiny.mbg.model.PmsProductExample;

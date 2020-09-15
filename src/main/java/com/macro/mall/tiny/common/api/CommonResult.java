@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.common.api;
+package com.macro.mall.tiny.common.api;
 
 /**
  * 通用返回对象

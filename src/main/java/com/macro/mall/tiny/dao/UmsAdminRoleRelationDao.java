@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.dao;
+package com.macro.mall.tiny.dao;
 
 
 import com.macro.mall.tiny.mbg.model.UmsPermission;

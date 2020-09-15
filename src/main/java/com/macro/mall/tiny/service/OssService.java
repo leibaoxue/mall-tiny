@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.service;
+package com.macro.mall.tiny.service;
 
 import com.macro.mall.tiny.dto.OssCallbackResult;
 import com.macro.mall.tiny.dto.OssPolicyResult;

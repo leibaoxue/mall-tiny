@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.service;
+package com.macro.mall.tiny.service;
 
 import com.macro.mall.tiny.common.api.CommonResult;
 import com.macro.mall.tiny.dto.OrderParam;

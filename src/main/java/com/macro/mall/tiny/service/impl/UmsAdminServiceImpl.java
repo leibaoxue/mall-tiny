@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.service.impl;
+package com.macro.mall.tiny.service.impl;
 
 import com.macro.mall.tiny.common.utils.JwtTokenUtil;
 import com.macro.mall.tiny.dao.UmsAdminRoleRelationDao;

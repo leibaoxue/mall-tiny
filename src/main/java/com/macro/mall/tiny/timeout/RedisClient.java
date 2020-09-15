@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.timeout;
+package com.macro.mall.tiny.timeout;
 
 import java.util.ArrayList;
 import java.util.Iterator;

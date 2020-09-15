@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.test;
+package com.macro.mall.tiny.test;
 
 import java.math.BigDecimal;
 

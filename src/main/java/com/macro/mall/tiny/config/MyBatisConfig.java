@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.config;
+package com.macro.mall.tiny.config;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;

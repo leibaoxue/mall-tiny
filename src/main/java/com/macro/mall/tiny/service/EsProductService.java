@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.service;
+package com.macro.mall.tiny.service;
 
 import com.macro.mall.tiny.nosql.elasticsearch.document.EsProduct;
 import org.springframework.data.domain.Page;

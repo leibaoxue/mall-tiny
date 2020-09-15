@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.nosql.elasticsearch.repository;
+package com.macro.mall.tiny.nosql.elasticsearch.repository;
 
 import com.macro.mall.tiny.nosql.elasticsearch.document.EsProduct;
 import com.macro.mall.tiny.nosql.elasticsearch.document.EsProducts;

@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.dto;
+package com.macro.mall.tiny.dto;
 
 /**
  * 生成订单时传入的参数

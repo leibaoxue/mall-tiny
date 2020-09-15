@@ -1,4 +1,4 @@
-package src.main.java.com.macro.mall.tiny.component;
+package com.macro.mall.tiny.component;
 
 import cn.hutool.core.util.StrUtil;
 import cn.hutool.core.util.URLUtil;
