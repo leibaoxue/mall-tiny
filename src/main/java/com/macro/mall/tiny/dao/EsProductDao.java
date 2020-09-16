@@ -1,7 +1,8 @@
 package com.macro.mall.tiny.dao;
 
-import src.main.java.com.macro.mall.tiny.nosql.elasticsearch.document.EsProduct;
-import src.main.java.com.macro.mall.tiny.nosql.elasticsearch.document.EsProducts;
+import com.macro.mall.tiny.nosql.elasticsearch.document.EsProduct;
+
+import com.macro.mall.tiny.nosql.elasticsearch.document.EsProducts;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;

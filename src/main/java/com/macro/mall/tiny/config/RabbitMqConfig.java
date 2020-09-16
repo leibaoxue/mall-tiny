@@ -1,6 +1,7 @@
 package com.macro.mall.tiny.config;
 
-import src.main.java.com.macro.mall.tiny.dto.QueueEnum;
+import com.macro.mall.tiny.dto.QueueEnum;
+
 import org.springframework.amqp.core.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
